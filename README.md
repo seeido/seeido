@@ -29,6 +29,6 @@ P.S. I just recently started doing full-stack projects even though I've been lea
 
 #
 
-![Saeed's GitHub stats](https://github-readme-stats-jet-ten-96.vercel.app/api?username=x-saeed&show_icons=true&theme=github_dark)
+![Seeido's GitHub stats](https://github-readme-stats-seeido.vercel.app/api?username=seeido&show_icons=true&theme=github_dark)
 <br />
-![Most Used Languages](https://github-readme-stats-jet-ten-96.vercel.app/api/top-langs/?username=x-saeed&theme=github_dark)
+![Most Used Languages](https://github-readme-stats-seeido.vercel.app/api/top-langs/?username=seeido&theme=github_dark)
